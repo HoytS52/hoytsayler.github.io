@@ -6,6 +6,5 @@ Welcome to my personal website repository! This repository contains all the file
 ## About Me
 I am an undergraduate student pursuing a career as a mathematics professor and writer. My research interests focus on using **mathematical modeling to analyze social systems and socialist theory**. I aim to connect rigorous quantitative analysis with political and social philosophy.
 
-## Website Structure
-The repository is organized as follows:
+
 
